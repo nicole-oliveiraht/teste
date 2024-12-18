@@ -1,3 +1,6 @@
+
+theme: minima
+  
 document.addEventListener("DOMContentLoaded", () => {
   const flower = document.querySelector("#animation-flower");
   const word = document.querySelector("h1");
